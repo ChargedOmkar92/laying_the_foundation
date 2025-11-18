@@ -1,0 +1,30 @@
+{
+  "name": "ingnite_react_app",
+  "version": "1.0.0",
+  "description": "igniting the app without using create react app command",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChargedOmkar92/Ignite_React_App.git"
+  },
+  "author": "Omkar Shevale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChargedOmkar92/Ignite_React_App/issues"
+  },
+  "homepage": "https://github.com/ChargedOmkar92/Ignite_React_App#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
