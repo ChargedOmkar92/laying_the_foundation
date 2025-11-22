@@ -12,7 +12,6 @@ so for start our appp server we can simply hit "npm run start" or "npm start"
 
 for build we can hit "npm run build"
 
-
 React.createElement is a core React API that creates React elements: plain JavaScript objects describing what the UI should look like.
 
 These React elements represent HTML elements (like <div>, <h1>) or user-defined components, along with their properties (props) and children.
